@@ -4,7 +4,7 @@
 
   
 ## 🚀 About Me
-Software Engineer at Viasat 
+Software Engineer
   
 ## 🛠 Skills
 Python, AWS ...
